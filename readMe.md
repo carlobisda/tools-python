@@ -10,7 +10,7 @@ I started using keybinds in a more advanced way with Win11
 as I'm planning to work alot more with Arch and I would like
 both environments to be somewhat similar if I can manage.
 
-One of the features ArchBand had is a simple keybind reminder
+One of the features ArchBang had is a simple keybind reminder
 permanently on the screen as a sidebar.
 
 So I decided to write one in Python for my usage as well.
