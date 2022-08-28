@@ -2,10 +2,10 @@ Name: Keybind Reminder
 Author: Carlo Bisda
 Version: 1.0.0
 License: MIT
-Link: https://github.com/carlobisda
+Link: https://github.com/carlobisda/keybind-reminder
 
 
-A simple keybind reminder for Windows 11.
+A simple keybind reminder for Windows 11. (aka a glorified way of opening a txt file)
 I started using keybinds in a more advanced way with Win11
 as I'm planning to work alot more with Arch and I would like
 both environments to be somewhat similar if I can manage.
