@@ -1,4 +1,4 @@
-#Name: Randum Level Generator
+#Name: Random Level Generator
 #Author: Carlo Bisda
 #License: MIT
 #Version: 1.0.0
