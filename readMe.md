@@ -7,6 +7,8 @@ My repository of tools I created using Python.
     important keybinds I have in the system
     lvlGen.exe - CLI ASCII random dungeon creator (ala Rogue style); generates 
     random dungeons that I can use as reference for FPS level design.
+    qPassword.exe - CLI password generator (as I don't want to have to go 
+    online to use an online one)
 
 #WIP
 
